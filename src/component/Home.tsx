@@ -196,7 +196,7 @@ const Home: React.FC = () => {
               transition={{ duration: 2, repeat: Infinity, ease: "linear" }}
             />
             DMI
-            <div className="absolute -top-1 -right-1 w-2 h-2 sm:w-3 sm:h-3 bg-green-400 rounded-full animate-pulse shadow-lg" />
+            
           </motion.div>
         </motion.div>
 
