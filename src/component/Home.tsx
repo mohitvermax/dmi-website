@@ -262,14 +262,14 @@ const Home: React.FC = () => {
         </motion.div>
 
         {/* Description */}
-        <motion.div 
+        {/* <motion.div 
           variants={itemVariants} 
           className="text-center mb-8 sm:mb-16 max-w-xs sm:max-w-2xl lg:max-w-4xl"
         >
           <p className="text-sm sm:text-lg lg:text-xl text-gray-600 leading-relaxed">
             Join 500+ funded startups using DMI to create professional brand identities, social content, and app interfaces in minutes, not months.
           </p>
-        </motion.div>
+        </motion.div> */}
 
         {/* CTA Buttons */}
         <motion.div 
