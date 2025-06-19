@@ -257,7 +257,7 @@ const Home: React.FC = () => {
             className="text-lg sm:text-2xl lg:text-3xl text-gray-700 font-bold leading-tight"
             whileHover={{ scale: 1.01 }}
           >
-            From Startup to Scale. AI-Powered Design.
+            From brand kit to launch-ready content, websites & apps — powered by AI.
           </motion.p>
         </motion.div>
 
@@ -296,7 +296,7 @@ const Home: React.FC = () => {
             />
             <span className="relative z-10 flex items-center justify-center gap-2">
               <span>✓</span>
-              Start Free Trial
+              Try the Demo
             </span>
           </motion.button>
 
@@ -314,7 +314,7 @@ const Home: React.FC = () => {
               transition={{ duration: 0.3 }}
             />
             <span className="relative z-10 flex items-center justify-center gap-2">
-              Watch Demo
+              Join Waitlist
               <motion.span
                 animate={{ x: [0, 5, 0] }}
                 transition={{ duration: 1.5, repeat: Infinity }}
