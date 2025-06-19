@@ -13,7 +13,7 @@ An interactive and visually captivating hero section for a modern website, built
 
 ## 🚀 Live Demo
 
-[👉 View Live Demo](#) _(Link your deployed version here, e.g., Vercel, Netlify)_
+[👉 View Live Demo](https://dmi-website.vercel.app/)
 
 ---
 
